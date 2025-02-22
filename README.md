@@ -4,14 +4,14 @@ Data Scientist & AI/ML Engineer based in Paris, France, passionate about leverag
 
 ## 🚀 Featured Projects
 
-### NLP Analysis of Climate Change Perceptions (INRAE)
+### NLP Analysis of Climate Change Perceptions 
 *NLP/ML Engineering Project*
 - Built end-to-end NLP pipelines for analyzing perceptions in coastal territories facing climate change
 - Implemented named entity recognition and topic modeling using state-of-the-art transformers
 - **Tech stack**: Python, pandas, BERTopic, spaCy, CamemBERT
 - 🔗 [Project Details](#) <!-- We'll add links later -->
 
-### Customer Churn Prediction Platform (BCP)
+### Customer Churn Prediction Platform 
 *Machine Learning Engineering Project*
 - Developed distributed ML architecture for predicting customer churn in residential banking
 - Implemented end-to-end ML pipeline from data preprocessing to model deployment
@@ -19,7 +19,7 @@ Data Scientist & AI/ML Engineer based in Paris, France, passionate about leverag
 - **Tech stack**: Python, XGBoost, Random Forest, KubeFlow, Hadoop, Spark (PySpark, MLlib)
 - 🔗 [Project Details](#)
 
-### Enterprise Performance Monitoring System (CDG)
+### Enterprise Performance Monitoring System 
 *Data Engineering Project*
 - Architected and implemented a decision-making information system for group-wide performance monitoring
 - Built robust ETL processes and data pipelines using Azure cloud services
