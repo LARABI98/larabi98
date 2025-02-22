@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Youssef Larabi
 
-Data Scientist & AI/ML Engineer based in Paris, France, passionate about leveraging data and AI to solve real-world problems.
+Data Scientist & AI/ML Engineer, passionate about leveraging data and AI to solve real-world problems.
 
 ## 🚀 Featured Projects
 
@@ -15,7 +15,7 @@ Data Scientist & AI/ML Engineer based in Paris, France, passionate about leverag
 *Machine Learning Engineering Project*
 - Developed distributed ML architecture for predicting customer churn in residential banking
 - Implemented end-to-end ML pipeline from data preprocessing to model deployment
-- Achieved [X]% improvement in churn prediction accuracy
+- Achieved 30% improvement in churn prediction accuracy
 - **Tech stack**: Python, XGBoost, Random Forest, KubeFlow, Hadoop, Spark (PySpark, MLlib)
 - 🔗 [Project Details](#)
 
